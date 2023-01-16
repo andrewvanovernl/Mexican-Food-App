@@ -15,21 +15,21 @@ const dummyListone = [
   {
     id: "d1",
     src: dish1,
-    name: "Chilaquiles is definitely the most popular breakfast in the country. Made of triangular pieces of fried or toasted corn tortilla, called totopos, soaked in a red or green hot sauce, topped with shredded chicken, chorizo, shredded beef, and scrambled or sunny side up egg. It is decorated with fresh cheese, coriander, and sliced onion and is served with fried beans on the side. ",
+    name: "Made of triangular pieces of fried or toasted corn tortilla,",
     price: 19.99,
   },
 
   {
     id: "d2",
     src: dish2,
-    name: "This is one of the most popular dishes on the northern side of México. Machaca is very versatile; you can either eat it in a taco, a stuffed burrito, flautas, or just as a stew with some tortillas, beans, or rice on the side. Machaca is simply a shredded version of dried beef with a proper seasoning. It´s delicious! ",
+    name: "a stuffed burrito, flautas, or just as a stew with some tortillas",
     price: 16.50,
   },
 
   {
     id: "d3",
     src: dish3,
-    name: "A northern meaty dish, yes… it´s full of meat: sausage, chorizo, ground meat, ham, bacon, lard, jalapeño pepper, onion. And it is all seasoned with thyme, celery, cumin, oregano, bay leaf, black pepper, black sauces, salt, rosemary, a bit of dark beer, etc. This dish is cooked on a plow disc previously cured over some wood. It is a traditional dish for family reunions. ",
+    name: "sausage, chorizo, ground meat, ham, bacon, lard, jalapeño pepper, onion",
     price: 13.99,
   },
 ];
@@ -38,21 +38,21 @@ const dummyListtwo = [
   {
     id: "d4",
     src: dish4,
-    name: "Recognized as the most popular Mexican dish worldwide, the taco has become an art. Some say is the “art of eating with tortilla” and, of course, Mexicans would never deny a taco to anybody. Hundreds of fillings can be put on a corn tortilla! The most common are beef steak, flank steak, chorizo, offal, “al pastor”, hot and sweet marinated pork.",
+    name: "Recognized as the most popular Mexican dish worldwide, the taco has become an art.",
     price: 15.99,
   },
 
   {
     id: "d5",
     src: dish5,
-    name: "This is very popular on the northern side of México, especially the states bordering the United States. A burrito is a cylindrically rolled flour tortilla stuffed with different ingredients of choice, often a stew. The most popular are the fried bean burrito with cheese and the machaca burrito. ",
+    name: "A burrito is a cylindrically rolled flour tortilla stuffed with different ingredients of choice",
     price: 11.00,
   },
 
   {
     id: "d6",
     src: dish6,
-    name: "Tamales are an icon of Mexican food. You can eat these all day every day, especially on the Day of The Candelaria. It comes from pre-Hispanic America, and is náhuatl in the indigenous language, meaning wrapped. These can be wrapped in corn leaves or banana leaves and stuffed with any stew of your choice. The most common are mole, shredded chicken or pork with green or red salsa, pepper with cheese, and yellow corn kernels. ",
+    name: "These can be wrapped in corn leaves or banana leaves and stuffed with any stew of your choice",
     price: 8.00,
   },
 ];
