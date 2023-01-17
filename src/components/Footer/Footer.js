@@ -45,7 +45,7 @@ const Footer = () => {
                     rel="noreferrer"
                     className={classes.eniola_codes}
                   >
-                    EniolaCodes
+                    Ajv
                   </a>
                 </p>
               </div>
